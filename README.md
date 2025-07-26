@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados do Programa Oracle Next Education da Oracle em parceria com a Alura.
+# Projeto de Ciência de Dados do Programa Oracle Next Education da Oracle em parceria com a Alura.
 
 Nesse desafio, fui contratado como assistente de análise de dados para fazer parte da equipe de Data Science. A equipe estava com um novo projeto denominado Churn de Clientes.
 
